@@ -131,7 +131,7 @@ i {
 /* Hero */
 .hero {
     background-color: var(--clr-dark);
-    background-image: url(/images/home/showcase.jpg);
+    background-image: url(../images/home/showcase.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -313,7 +313,7 @@ footer i:hover {
     height: 30vh;
     padding: 20px;
     justify-content: center;
-    background-image: url(/images/home/blog.jpg);
+    background-image: url(../images/home/blog.jpg);
 }
 
 /* Page Three | Blog Post Page */
